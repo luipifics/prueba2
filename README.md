@@ -1704,5 +1704,4 @@ http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:04:F3:7E&stream=151997&extension
 http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:04:F3:7E&stream=151996&extension=ts
 #EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV HD" tvg-logo="http://logo.protv.cc/picons/logos/vtv.png" group-title="LAT| URUGUAY",UY| VTV HD
 http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:04:F3:7E&stream=151998&extension=ts
-#EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV &extension=ts PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT| URUGUAY",UY| VTV &extension=ts PLUS
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:04:F3:7E&stream=805850&extension=ts
+
